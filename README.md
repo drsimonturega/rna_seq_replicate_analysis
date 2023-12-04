@@ -19,3 +19,7 @@ Visualisation of analysise, ranking of read quality based upon this analysais.
 
 #### Milestone 3
 Visualisation of using a seconda datad set as tect of how well thhe protocls work.
+
+### Running instrctions 
+#### Loaction of files 
+On the work managed desk top I put the files and my working directory ```C:\Users\hwbst6\DataTime``` and coned the git to there.
